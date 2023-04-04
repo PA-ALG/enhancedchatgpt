@@ -1,6 +1,6 @@
 {
   "name": "enhancedchatgpt",
-  "version": "5.0.10",
+  "version": "1.0.1",
   "description": "Node.js client for the official ChatGPT API.",
   "author": "Travis Fischer <travis@transitivebullsh.it>",
   "repository": "https://github.com/PA-ALG/enhancedchatgpt.git",
